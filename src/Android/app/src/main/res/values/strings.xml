@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OSU_Pokedex</string>
+    <string name="post_trainer">Add Trainer</string>
+    <string name="post_pokemon">Add Pokemon</string>
+    <string name="put_pokemon">Update Pokemon</string>
+    <string name="put_trainer">Update Trainer</string>
+    <string name="delete_pokemon">Delete Pokemon</string>
+    <string name="delete_trainer">Delete Trainer</string>
+    <string name="release_pokemon">Release Pokemon</string>
+    <string name="capture_pokemon">Capture Pokemon</string>
+    <string name="submit_btn">Submit</string>
+
+
+    <string name="post_name_hint">Add the Pokemon\'s name here.</string>
+    <string name="post_height_hint">Add the Pokemon\'s height here (meters)</string>
+    <string name="post_weight_hint">Add the Pokemon\'s weight here (kilograms)</string>
+    <string name="post_types_hint">Add the Pokemon\'s type(s) here, separated by commas.</string>
+    <string name="post_captured_hint">Does the Pokemon have a Trainer? True/False</string>
+
+    <string name="post_name_trainer">Add the Trainer\'s name here.</string>
+    <string name="post_badges_trainer">How many badges does this trainer have?</string>
+    <string name="post_hometown_trainer">Where is this trainer from?</string>
+
+    <string name="put_pokemon_btn">Edit Selected Pokemon</string>
+
+    <string name="delete_hint_pokemon">Please Select a Pokemon to Delete</string>
+    <string name="delete_hint_trainer">Please Select a Trainer to Delete</string>
+
+
+</resources>

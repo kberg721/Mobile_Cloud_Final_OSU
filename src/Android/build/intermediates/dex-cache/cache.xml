@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Kberg721/AndroidStudioProjects/OSU_Pokedex/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9f3ebad938db14b7d74615c3ec1b1f50d130de0">
+        <dex dex="/Users/Kberg721/AndroidStudioProjects/OSU_Pokedex/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc988f938372675702f0a0667d0a6ac53e74eab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kberg721/AndroidStudioProjects/OSU_Pokedex/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Kberg721/AndroidStudioProjects/OSU_Pokedex/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_de7e460393091067bd7bb4700ea801db49f39c56/classes.dex" />
+    </item>
+
+</items>
